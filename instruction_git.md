@@ -49,4 +49,6 @@ git status
 
     git diff
 
+Чтобы перемещаться между ветками, созданными командой git branch, нужно ввести команду:
+
     git checkout <hash>
