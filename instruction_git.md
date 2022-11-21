@@ -51,4 +51,4 @@ git status
 
 Чтобы перемещаться между ветками, созданными командой git branch, нужно ввести команду:
 
-    git checkout <hash>
+    git checkout <indicate the uniqie number>
