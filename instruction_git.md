@@ -21,3 +21,17 @@ git status
 Чтобы добавить измененгия в индекс, нужно ввести команду:
 
     git add <filename>
+
+Чтобы записать индексированные изменения в репозиторий, нужно ввести команду:
+
+    Git commit
+
+    Git commit -m
+
+    Git log -- oneline
+
+    Git log --oneline --all
+
+    git diff
+
+    git checkout <hash>
