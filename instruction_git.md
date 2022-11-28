@@ -146,3 +146,7 @@ git branch -d <name of branch>
 Для того, чтобы отправить локальную ветку на удаленный репозиторий, служит команда push:
 
 $ git push
+
+## nothing to add just info
+
+END branch
