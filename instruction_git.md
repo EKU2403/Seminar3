@@ -158,4 +158,4 @@ git checkout <название_ветки>
 git push origin <название_ветки>
 
 
-## End od Seminar 3
+## End of Seminar 3
